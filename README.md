@@ -1,5 +1,5 @@
 # <center>🚀 Bienvenid@ a mi Perfil👋</center>
-<img src="img/banner.jpg">
+<img src="img/banner.jpn">
 
 
 ## 💻 Quien soy?
